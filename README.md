@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter :moneybag:
 A simple application which converts the currency from one currency to other
 
 ## Clone the repo
